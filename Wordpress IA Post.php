@@ -3,7 +3,7 @@
  * Plugin Name: Auto News Generator
  * Description: Genera publicaciones automáticas basadas en palabras clave utilizando la API de OpenAI.
  * Version: 1.0
- * Author: Tu Nombre
+ * Author: Aexis Olivero
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
